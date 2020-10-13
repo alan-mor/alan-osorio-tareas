@@ -1,6 +1,6 @@
 #####    Historia de Hadoop    #####
 
-Fue allá por 2012 cuando se empieza a popularizar el término **Big Data**, dos ingenieros de Google, Jeffrey Dean y Sanjay Ghemawat, allá por 2004, publican un artículo titulado *MapReduce: Simplified Data Processing on Large Clusters*, donde hablaban de un nuevo modelo de programación que permite simplificar el procesamiento de grandes volúmenes de datos. Lo bautizan como **MapReduce**.
+Fue allá por 2012 cuando se empieza a popularizar el término Big Data, dos ingenieros de Google, Jeffrey Dean y Sanjay Ghemawat, allá por 2004, publican un artículo titulado *MapReduce: Simplified Data Processing on Large Clusters*, donde hablaban de un nuevo modelo de programación que permite simplificar el procesamiento de grandes volúmenes de datos. Lo bautizan como MapReduce.
 
 Básicamente es la evolución natural y necesaria que tenían dentro de Google para procesar los grandes volúmenes de datos que ya por aquel entonces manejaban y que les ayudó a popularizar industrias como el SEO y SEM. Vamos, de lo que hoy en día vive Google (Alphabet) y lo que le ha permitido ser la empresa de mayor valor bursátil del mundo.
 
@@ -13,11 +13,11 @@ En aquel entonces, estos grandes visionarios se dieron cuenta que este problema 
 
 Este paradigma lo adoptó Google allá por 2004. Y dado el rendimiento que tenía, se comenzó a emplear en otras aplicaciones (como decíamos ahora). Se comienzan luego a desarrollar versiones de código abierto en frameworks. Esto hace muy fácil su rápida adopción, y quizás deja una lección para la historia sobre cómo desarrollar rápidamente un paradigma.
 
-Uno de los frameworks que comienza a ganar en popularidad es **Apache Hadoop**. Y, para muchos, aquí nace esta era del **BIG DATA**. El creador del framework Hadoop se llama **Doug Cutting**, una persona con una visión espectacular. En cuanto leyó la publicación de Dean y Ghemawat se dio cuenta que si crease una herramienta bajo el paradigma **MapReduce**, ayudaría a muchos a procesar grandes cantidades de datos. Cutting acabó luego trabajando en Yahoo!, que es donde realmente empujó el proyecto Hadoop.
+Uno de los frameworks que comienza a ganar en popularidad es Apache Hadoop. Y, para muchos, aquí nace esta era del BIG DATA. El creador del framework Hadoop se llama Doug Cutting, una persona con una visión espectacular. En cuanto leyó la publicación de Dean y Ghemawat se dio cuenta que si crease una herramienta bajo el paradigma MapReduce, ayudaría a muchos a procesar grandes cantidades de datos. Cutting acabó luego trabajando en Yahoo!, que es donde realmente empujó el proyecto Hadoop.
 
 	• HDFS: una implementación open-source de un sistema distribuido de ficheros (que ya había descrito Google en realidad).
 	• MapReduce: utilizando HDFS como soporte, la implementación del modelo de programación que hemos descrito al comienzo.
 
 La historia sobre el origen y verdadero impulso a esta era del Big Data, puede cerrarse con la salida de Yahoo! de Cutting en 2009. Se incorpora a Cloudera, empresa que comienza a dar servicio, soporte y formación de Hadoop a otras empresas. Para esa fecha, Hadoop ya era un ecosistema de módulos y aplicaciones.
 
-Investigación por: **Alan Osorio**
+Investigación por: Alan Osorio
